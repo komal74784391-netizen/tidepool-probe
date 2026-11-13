@@ -1,0 +1,6 @@
+sample_id,channel,value_si,quality
+0001,optical_return,0.417,0.98
+0002,optical_return,0.421,0.97
+0003,temperature_c,14.2,0.99
+0004,temperature_c,14.4,0.97
+0005,battery_v,12.7,1.0
